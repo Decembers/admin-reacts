@@ -1,4 +1,4 @@
-//
+// eslint-disable-next-line
 
 import Rreact from "react";
 import ReactDom from "react-dom"
